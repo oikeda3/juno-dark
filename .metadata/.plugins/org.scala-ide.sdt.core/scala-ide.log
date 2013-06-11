@@ -1,0 +1,10 @@
+2013-06-10 13:55:16,430  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:55:16,979  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:55:17,495  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:55:32,046  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:55:33,203  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:57:03,913  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:57:04,207  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:57:04,952  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 13:58:49,867  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2013-06-10 14:05:42,474  WARN [org.eclipse.jdt.internal.ui.text.JavaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.

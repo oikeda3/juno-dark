@@ -1,0 +1,8 @@
+ColorsAndFontsPreferencePage.selectedElement=Torg.eclipse.jdt.ui.presentation
+ENABLED_DECORATORS=org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.team.cvs.ui.decorator\:false,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,
+coolBarVisible=false
+eclipse.preferences.version=1
+org.eclipse.jface.textfont=1|Ubuntu Mono|10.0|0|GTK|1|;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<activeKeyConfiguration keyConfigurationId\="kg.totality.core.insert_mode"/>\n<keyBinding commandId\="org.eclipse.ui.edit.text.goto.pageDown" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="kg.totality.core.insert_mode" keySequence\="CTRL+D"/>\n<keyBinding commandId\="org.eclipse.ui.edit.text.goto.pageUp" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="kg.totality.core.insert_mode" keySequence\="CTRL+U"/>\n</org.eclipse.ui.commands>
+overridepresentation=true
+perspectiveBarVisible=false
